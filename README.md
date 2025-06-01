@@ -6,9 +6,12 @@ This Excel project provides a complete financial management system for small bus
 - ✅ Dashboard with KPI Cards and Charts
 
 Features used in this project
-- Uses key Excel functions: `SUM`, `SUMIFS`, formulas, profit margin
-- Conditional formatting
-- Dashboard layout with visual insights
+Formulas for =SUM(), =SUBTOTAL(), =SUMIF()
+Data Validation (dynamic)
+Column formatting
+Conditional formatting 
+Table filters, slicers
+Charts - Line, Column, Clustered column, Bar graphs
 
 **This project was made on wen based Excel (Office 365)
 
