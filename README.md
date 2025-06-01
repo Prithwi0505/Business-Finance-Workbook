@@ -13,5 +13,5 @@ Features used in this project
 - Table filters, slicers
 - Charts - Line, Column, Clustered column, Bar graphs
 
-**This project was made on wen based Excel (Office 365)
+**This project was made on web based Excel (Office 365)**
 
